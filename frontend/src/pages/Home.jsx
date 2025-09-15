@@ -136,7 +136,7 @@ export default function Home() {
               <div className="card-body d-flex flex-column">
                 <h5 className="card-title">{p.title}</h5>
                 <p className="card-text">
-                  {p.description || "No description available."}
+                  {p.description || "Cloud computing (AWS/Azure) internship project pre recorded video"}
                 </p>
                 <p className="fw-bold">Price: ₹{p.price}</p>
 
